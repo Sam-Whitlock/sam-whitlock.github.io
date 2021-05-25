@@ -1,2 +1,0 @@
-# portfolio
-Samuel Whitlocks portfolio
